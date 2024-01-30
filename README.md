@@ -7,7 +7,7 @@
             background-color: black;
             background-size: cover;
             color: rgb(150, 169, 163);
-            background: url(images/k.jpg);
+            background: url("./images/k.jpg");
             padding: 70px;
         
         }
@@ -34,7 +34,7 @@
 </head>
 <body>
 <header>
-    <img src="images/OIP.jpg" alt="pic">
+    <img src="./images/OIP.jpg" alt="my image">
     <h1> kidane meheret school</h1>
     <a href= "#">About us</a>
 </header>
